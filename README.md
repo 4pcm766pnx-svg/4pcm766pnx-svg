@@ -8,7 +8,6 @@ Sou um entusiasta de tecnologia, atualmente mergulhando no mundo da **Inteligên
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316gqqingmln6gpaqhupcoohjo4y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
-
 ### 🌟 Sobre Mim
 
 - 🔭 Atualmente trabalhando em: **Projetos de IA e Automação**
