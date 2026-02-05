@@ -3,7 +3,7 @@
 Sou um entusiasta de tecnologia, atualmente mergulhando no mundo da **Inteligência Artificial** e do **Desenvolvimento de Software**. Adoro criar, aprender e explorar novas possibilidades com código!
 
 ---
-<p align="center">
+<p align="right">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316gqqingmln6gpaqhupcoohjo4y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
