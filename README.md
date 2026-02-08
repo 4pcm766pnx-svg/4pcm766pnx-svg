@@ -1,6 +1,6 @@
-# Olá, eu sou o Marcfly! 👋🚀
+# Olá, sou Marcfly! 👋🚀
 
-Sou um entusiasta de tecnologia, atualmente mergulhando no mundo da **Inteligência Artificial** e do **Desenvolvimento de Software**. Adoro criar, aprender e explorar novas possibilidades com código!
+Um entusiasta de tecnologia, atualmente mergulhando no mundo da **Inteligência Artificial** e do **Desenvolvimento de Software**. Adoro criar, aprender e explorar novas possibilidades com código!
 
 ---
 
